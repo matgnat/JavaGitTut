@@ -1,8 +1,5 @@
 package com.magn;
 
-/**
- * Created by magn on 8/4/2017.
- */
 public class FirstClass {
 
     public static void main(String[] args)
@@ -16,7 +13,7 @@ public class FirstClass {
         System.out.println("Add feature_2.1_I_II");
         System.out.println("Add feature_2.2_II_III");
         System.out.println("Add feature_3_I");
-
+        System.out.println("Add feature_4");
     }
 
 }
